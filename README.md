@@ -1,2 +1,2 @@
 # training-web-app
-A web app for Phil-lidar1
+A starter project for the Phil-lidar1 web app
